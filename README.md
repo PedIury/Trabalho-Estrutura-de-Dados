@@ -21,3 +21,48 @@ exemplo: Uma pilha de caixas, a primeira caixa que você põe no chão ficara em
 
 
 3°)
+
+Pilha
+
+Navegação entre paginas web e o mecanismo refazer/desfazer dos editores de texto.
+
+Fila
+
+Troca de Mensagens entre coputadores conectados em uma mesma rede e o controle de documento para impressão.
+
+Arvore
+
+Site e um Link que é um nó da pagina que voce está atualmente.
+Em uma Pagina pode ter varios links, dentro de cada link pode ter ou não muitos outros.
+
+4°)
+
+
+!![image](https://user-images.githubusercontent.com/112532643/207990623-8f7a56c4-bfc2-4965-b0df-795e0c2c18e6.png)
+
+
+a)
+ 
+4 - 7 - 16 - 18 - 20 - 37 - 38 - 43
+
+b)
+
+4 - 18 - 16 - 7 - 37 - 43 - 38 - 20
+
+c)
+
+20 - 7 - 4 - 16 - 18 - 38 - 37 -43
+
+d)
+
+grau 2 = 20,7,38
+grau 1 = 16
+grau 0 = 4,18,37,43
+	
+
+5°)
+
+Para remover o E3, ele terá que ser encontrado e deixá-lo como atual, apos isso pegue o anterior a ele, que no caso é o E2,e dizer que o "Anterior" recebe o próximo de "Atual" que no caso o próximo do atual é o E4, apos isso o E2 apontara para o E4 e o E3 será completamente removido.
+
+
+6)
