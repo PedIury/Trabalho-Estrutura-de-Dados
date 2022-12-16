@@ -32,9 +32,7 @@ public class App {
     }
     public static void updateOp() {
 		int num = inputInt("Informe o numero: ");
-
 		int pos = inputInt("Informe a posicao: ");
-
 		list.update(pos, num);
     }
     public static void main(String[] args){
