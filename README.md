@@ -22,16 +22,13 @@ exemplo: Uma pilha de caixas, a primeira caixa que você põe no chão ficara em
 
 3°)
 
-Pilha
-
+Pilha:
 Navegação entre paginas web e o mecanismo refazer/desfazer dos editores de texto.
 
-Fila
-
+Fila:
 Troca de Mensagens entre coputadores conectados em uma mesma rede e o controle de documento para impressão.
 
-Arvore
-
+Arvore:
 Site e um Link que é um nó da pagina que voce está atualmente.
 Em uma Pagina pode ter varios links, dentro de cada link pode ter ou não muitos outros.
 
