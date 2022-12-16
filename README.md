@@ -64,5 +64,6 @@ grau 0 = 4,18,37,43
 
 Para remover o E3, ele terá que ser encontrado e deixá-lo como atual, apos isso pegue o anterior a ele, que no caso é o E2,e dizer que o "Anterior" recebe o próximo de "Atual" que no caso o próximo do atual é o E4, apos isso o E2 apontara para o E4 e o E3 será completamente removido.
 
+6°)
 
-6)
+![image](https://user-images.githubusercontent.com/112532643/207994817-1836cb03-9475-4590-a4ed-797377d087e8.png)
